@@ -1,0 +1,8 @@
+[ID:vanilla_procedural]
+[NUMERIC_VERSION:5101]
+[DISPLAYED_VERSION:51.01]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5101]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:51.01]
+[AUTHOR:Bay 12 Games]
+[NAME:Vanilla Procedural Objects]
+[DESCRIPTION:These are the default Dwarf Fortress generated objects.]

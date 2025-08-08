@@ -1,0 +1,5 @@
+can use CDI_LIST_ICON in interaction_graphics to get at CE_CAN_DO_INTERACTION list icons using CDI:TOKEN
+
+e.g.
+[INTERACTION_GRAPHICS:<interaction token from interaction that adds the syndrome with the cdi>]
+	[CDI_LIST_ICON:<token from syndrome's can do interaction effect added with CDI:TOKEN>:<tile page tokens>]

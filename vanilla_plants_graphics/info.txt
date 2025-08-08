@@ -1,0 +1,8 @@
+[ID:vanilla_plants_graphics]
+[NUMERIC_VERSION:5106]
+[DISPLAYED_VERSION:51.06]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:5001]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:50.01]
+[AUTHOR:Bay 12 Games]
+[NAME:Vanilla Plants Graphics]
+[DESCRIPTION:These are the graphics for the default Dwarf Fortress plants and fungi.]
