@@ -2652,7 +2652,7 @@ function build_body_from_rcp(rcp,lines,options)
         //beak
         //four tentacles in place of arms]]
                 
-    if options.humanoid_only or (rcp.humanoidable and one_in(20)) then
+    if body_base ~= "HUMANOID" and (options.humanoid_only or (rcp.humanoidable and one_in(20))) then
         body_base="HUMANOID"
         options.btc="MAKE_HUMANOID"
     end
