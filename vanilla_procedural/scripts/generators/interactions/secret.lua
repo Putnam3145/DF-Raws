@@ -146,8 +146,7 @@ interactions.secrets.necromancer=function(idx,sph)
             [SYN_CONCENTRATION_ADDED:1000:0]//just in case
             [CE_DISPLAY_TILE:TILE:165:5:0:1:START:0:ABRUPT]
             [CE_DISPLAY_NAME:NAME:necromancer:necromancers:necromantic:START:0:ABRUPT]
-            [CE_ADD_TAG:NOEXERT:NO_AGING:NO_EAT:NO_DRINK:NO_SLEEP:NO_PHYS_ATT_GAIN:NO_PHYS_ATT_RUST]
-            ]]..(experimenter and ":NIGHT_CREATURE_EXPERIMENTER" or "")..[[:START:0:ABRUPT]
+            [CE_ADD_TAG:NOEXERT:NO_AGING:NO_EAT:NO_DRINK:NO_SLEEP:NO_PHYS_ATT_GAIN:NO_PHYS_ATT_RUST]]..(experimenter and ":NIGHT_CREATURE_EXPERIMENTER" or "")..[[:START:0:ABRUPT]
             [CE_CHANGE_PERSONALITY:FACET:ANXIETY_PROPENSITY:50:FACET:TRUST:-50:START:0:ABRUPT]
             [CE_CAN_DO_INTERACTION:START:0:ABRUPT]
                 [CDI:ADV_NAME:Animate corpse]
