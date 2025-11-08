@@ -249,6 +249,7 @@ interactions.secrets.necromancer=function(idx,sph)
             [IE_TARGET:B]
             [IE_IMMEDIATE]
             [IE_CREATURE_CASTE_FLAG:NIGHT_CREATURE_BOGEYMAN]
+			[IE_MAKE_PET_IF_POSSIBLE]
             [IE_TIME_RANGE:200:300]
         ]])
     end
@@ -264,6 +265,7 @@ interactions.secrets.necromancer=function(idx,sph)
             [IE_TARGET:B]
             [IE_IMMEDIATE]
             [IE_CREATURE_CASTE_FLAG:NIGHT_CREATURE_NIGHTMARE]
+			[IE_MAKE_PET_IF_POSSIBLE]
             [IE_TIME_RANGE:200:300]
         ]])
     end
